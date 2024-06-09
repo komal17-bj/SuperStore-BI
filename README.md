@@ -9,6 +9,6 @@ The object can be broken down into the following detailed explanation.
 
 2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
-3.Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forcasts for next 15 days.
+3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forcasts for next 15 days.
 
-4.Actionable insights and recommendations: End goal is to share valuable insgihts and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency and customer satisfaction.
+4. Actionable insights and recommendations: End goal is to share valuable insgihts and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency and customer satisfaction.
